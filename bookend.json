@@ -1,0 +1,56 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "linkedin",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "small",
+      "title": "More about Me",
+      "url": "https://rohansinghkalhans.firebaseapp.com",
+      "image": "assets/bookend_rohan.jpeg"
+    },
+    {
+      "type": "small",
+      "title": "My Medium",
+      "url": "https://medium.com/@rohankalhans",
+      "image": "assets/medium.jpg",
+      "category": "medium"
+    },
+    {
+      "type": "small",
+      "title": "Connect with me on LinkedIn",
+      "url": "https://linkedin.com/in/rohanovation/",
+      "image": "assets/bookend_linkedin.png",
+      "category": "linkedin"
+    },
+    {
+      "type": "small",
+      "title": "Follow me on Twitter",
+      "url": "https://twitter.com/rohankalhans",
+      "image": "assets/bookend_twitter.png",
+      "category": "twitter"
+    },
+    {
+      "type": "small",
+      "title": "Send me request on Facebook",
+      "url": "https://facebook.com/rohanovation",
+      "image": "assets/bookend_facebook.png",
+      "category": "facebook"
+    },
+    {
+      "type": "small",
+      "title": "Check my Github",
+      "url": "https://github.com/r4rohan",
+      "image": "assets/bookend_github.svg",
+      "category": "github"
+    }
+  ]
+}
